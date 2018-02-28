@@ -1,0 +1,27 @@
+{
+  "name": "gnote",
+  "version": "1.0.0",
+  "description": "A note keeping app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonardAta/googlekeep.git"
+  },
+  "author": "Leonard Ata",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leonardAta/googlekeep/issues"
+  },
+  "homepage": "https://github.com/leonardAta/googlekeep#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongodb": "^2.2.16"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
